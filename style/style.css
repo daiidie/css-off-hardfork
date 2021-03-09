@@ -31,6 +31,9 @@ button {
 }
 
 /* ... Your turn! ... */
-
+header {
+  color: var(--orange);
+  text-shadow: white 1px 1px;
+}
 @media (min-width: 640px) {
 }
